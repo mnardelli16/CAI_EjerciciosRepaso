@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Resources;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,9 +11,14 @@ namespace CS_EjerciciosRepaso
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HolaMUndo!");
+            Ejercicios E = new Ejercicios();
+
+            E.Ejercicio1();
+
+
 
             Console.ReadKey();
+         
         }
     }
 }
