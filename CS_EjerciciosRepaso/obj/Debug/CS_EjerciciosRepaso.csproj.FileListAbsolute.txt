@@ -1,0 +1,7 @@
+C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_EjerciciosRepaso\CS_EjerciciosRepaso\bin\Debug\CS_EjerciciosRepaso.exe.config
+C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_EjerciciosRepaso\CS_EjerciciosRepaso\bin\Debug\CS_EjerciciosRepaso.exe
+C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_EjerciciosRepaso\CS_EjerciciosRepaso\bin\Debug\CS_EjerciciosRepaso.pdb
+C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_EjerciciosRepaso\CS_EjerciciosRepaso\obj\Debug\CS_EjerciciosRepaso.csprojAssemblyReference.cache
+C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_EjerciciosRepaso\CS_EjerciciosRepaso\obj\Debug\CS_EjerciciosRepaso.csproj.CoreCompileInputs.cache
+C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_EjerciciosRepaso\CS_EjerciciosRepaso\obj\Debug\CS_EjerciciosRepaso.exe
+C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_EjerciciosRepaso\CS_EjerciciosRepaso\obj\Debug\CS_EjerciciosRepaso.pdb
