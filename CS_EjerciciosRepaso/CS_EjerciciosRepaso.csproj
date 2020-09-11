@@ -43,7 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ejercicios.cs" />
+    <Compile Include="Ejercicio1.cs" />
+    <Compile Include="Ejercicio10.cs" />
+    <Compile Include="Ejercicio11.cs" />
+    <Compile Include="Ejercicio12.cs" />
+    <Compile Include="Ejercicio13.cs" />
+    <Compile Include="Ejercicio14.cs" />
+    <Compile Include="Ejercicio15.cs" />
+    <Compile Include="Ejercicio16.cs" />
+    <Compile Include="Ejercicio17.cs" />
+    <Compile Include="Ejercicio18.cs" />
+    <Compile Include="Ejercicio19.cs" />
+    <Compile Include="Ejercicio2.cs" />
+    <Compile Include="Ejercicio20.cs" />
+    <Compile Include="Ejercicio3.cs" />
+    <Compile Include="Ejercicio4.cs" />
+    <Compile Include="Ejercicio5.cs" />
+    <Compile Include="Ejercicio6.cs" />
+    <Compile Include="Ejercicio7.cs" />
+    <Compile Include="Ejercicio8.cs" />
+    <Compile Include="Ejercicio9.cs" />
+    <Compile Include="Funciones.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
