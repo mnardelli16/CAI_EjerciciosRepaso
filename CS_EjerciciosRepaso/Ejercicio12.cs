@@ -22,8 +22,8 @@ namespace CS_EjerciciosRepaso
             string _strfecha1;
             string _strfecha2;
             DateTime[] fechas = new DateTime[2];
-            bool flag = false;
-            bool flag2 = false;
+            bool flag;
+            bool flag2;
 
 
             do
